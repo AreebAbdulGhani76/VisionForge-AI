@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="VisionForge AI_ Intelligent Object Detection.png" alt="VisionForge Banner" width="100%">
+</p>
+
 # VisionForge AI
 
 ### Custom Object Detection with YOLO11
