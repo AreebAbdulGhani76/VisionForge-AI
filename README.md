@@ -130,15 +130,7 @@ checkpoint and training output into:
     annotation quality, and available hardware.
 -   No accuracy or performance result is claimed here because the
     notebook does not include recorded evaluation metrics.
-
-## Author
-
-**Saad Kamal**
-
--   GitHub: https://github.com/Dev-SaadKamal
--   LinkedIn: https://www.linkedin.com/in/i-muhammadsaad/
--   Portfolio: https://dev-saadkamal.vercel.app/
-
+    
 ------------------------------------------------------------------------
 
 If you find this project useful, consider giving the repository a ⭐.
