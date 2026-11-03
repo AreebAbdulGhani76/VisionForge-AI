@@ -60,11 +60,9 @@ A suggested repository layout:
 
 ``` text
 VisionForge-AI/
-├── ML_project (1).ipynb
+├── ML_project.ipynb
 ├── data.zip                  # Custom dataset (if permitted to share)
-├── classes.txt               # One object class per line
-├── README.md
-└── my_model.zip              # Generated model package (after training)
+└── README.md
 ```
 
 Generated folders such as `runs/`, `custom_data/`, and `my_model/` are
